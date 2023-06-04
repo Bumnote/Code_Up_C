@@ -1,3 +1,2 @@
-# Code_Up_C
-https://www.codeup.kr/index.php
+## Code_Up_C -> https://codeup.kr/
 CodeUp 기초 100제 풀이
